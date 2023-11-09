@@ -6,3 +6,9 @@ youtube.googleapis.com
 youtubei.googleapis.com
 ytimg.com
 ytimg.l.google.com
+www.youtube.com
+m.youtube.com
+s.ytimg.com
+youtube.l.google.com
+i.google.com
+yt.be
